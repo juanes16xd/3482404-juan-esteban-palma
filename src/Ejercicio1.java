@@ -21,5 +21,6 @@ public class Ejercicio1 {
         }
         //salida
         JOptionPane.showMessageDialog(null, "pares registrados:" +pares+ "\n impares registrados:" +impares);
+        //ejercicio 1 terminado
     }
 }
