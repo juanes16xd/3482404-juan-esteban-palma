@@ -19,5 +19,6 @@ public class Ejercicio3 {
             }
         }
         JOptionPane.showMessageDialog(null, "Mayor: " + mayor + "\nMenor: " + menor);
+        //ejercicio 3 terminado
     }
 }
