@@ -19,6 +19,7 @@ public class Ejercicio2 {
         }
         //salida
         JOptionPane.showMessageDialog(null, "Promedio del curso: " + promedio + "\nEstado: " + estado);
+        //ejercicio 2 terminado
     }
 }
 
