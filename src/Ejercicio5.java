@@ -23,6 +23,7 @@ public class Ejercicio5 {
         }else{
             JOptionPane.showMessageDialog(null, "número no encontrado:");
         }
+        //ejercicio5 completado
     }
 }
 
