@@ -20,5 +20,6 @@ public class Ejercicio4 {
         }
         //salida
         JOptionPane.showMessageDialog(null,salida);
+        //ejercicio4 completado
     }
 }
