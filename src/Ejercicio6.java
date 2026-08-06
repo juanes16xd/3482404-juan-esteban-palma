@@ -33,5 +33,6 @@ public class Ejercicio6 {
         }else{
             JOptionPane.showMessageDialog(null, "Empate");
         }
+        //ejercicio6 completado
     }
 }
